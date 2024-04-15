@@ -10846,3 +10846,18 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+
+#header {
+  background-image: url('/assets/img/422288.jpg');
+  background-size: 100% auto;
+  background-position: 50% 50%;
+}
+
+.fa-solid, .fa-brands {
+  color: #000;
+}
+
+#king {
+  width: 85px;
+  height: 85px;
+}
