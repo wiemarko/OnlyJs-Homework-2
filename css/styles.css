@@ -10861,3 +10861,17 @@ html {
   width: 85px;
   height: 85px;
 }
+
+#aboutbg {
+  background-image: url('/assets/img/aboutbg.jpg');
+  background-size: 100% auto;
+  background-position: 50% 50%
+}
+
+#abouth {
+  color: #fff;
+}
+
+#abouttitle {
+  color: #fff;
+}
